@@ -1,8 +1,18 @@
 log/
 obj/
+bin/
 _site/
 .optemp/
 _themes*/
 _repo.*/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.DS_Store
 
 .openpublishing.buildcore.ps1
